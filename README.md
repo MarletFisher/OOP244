@@ -1,2 +1,4 @@
-Name: Frank Xunxiang Cheng
-Student ID: 051702033
+ - Frank Xunxiang Cheng
+ - Student No: 051702033
+ - Email ID: xcheng6@myseneca.ca
+ - OOP244 NHH
