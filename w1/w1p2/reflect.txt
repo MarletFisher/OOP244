@@ -1,0 +1,7 @@
+Reflection
+
+Name:		Frank Xunxiang Cheng
+Student ID: 051702033
+Date:		Jan 19th, 2024
+
+The topics I learned by completing this workshop are parsing formatted text files, connecting modules through 'includes', and sorting arrays through the bubbling method - but by far the most challenging area of the workshop was understanding the prewritten formula of finding the title barLength. To understand it better, I had to calculate values and navigate the modules as they pass these values as parameters. I would then concatenate these calculations to better understand the logic behind the formulation. This skill would probably be useful for joining a team of developers, as others' code may not always be intelligible, clear, or have detailed comments describing the process. 
