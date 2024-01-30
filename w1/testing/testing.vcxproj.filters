@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CoffeeMachine.cpp">
+    <Text Include="test.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="fgetsstdin.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

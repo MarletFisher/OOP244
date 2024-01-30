@@ -1,14 +1,29 @@
+#define _CRT_SECURE_NO_WARNINGS
+
 #include <iostream>
 #include <cstdio>
+#include <cstring>
 
-// using namespace std;
+ using namespace std;
+
 int main()
 {
-  std::cout << "Hello world" << std::endl;
-  int var;
-  std::cout << "Enter a val: ";
-  std::cin >> var;
-  printf("Hello world from c\n");
-  std::cout << var << std::endl;
-  return 0;
+	FILE* ptr = fopen("test.txt", "r");
+
+	if (ptr != nullptr) {
+		char cstr[61] = { 0 };
+		int i;
+		int num;
+
+		i = fscanf(ptr, "%d,%60[^\n]\n", &num, cstr);
+
+		cout << "i is " << i << endl;
+		cout << cstr << endl;
+	}
+	else {
+		cout << "no file" << endl;
+	}
+	fclose(ptr);
+
+	return 0;
 }
