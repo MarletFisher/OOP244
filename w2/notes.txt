@@ -1,0 +1,16 @@
+i * *p
+
+i is a variable
+
+the first * is a multiplication operator
+
+*p is a dereferencing of the variable, returning the value only.
+
+When creating a pointer, extra memory is allocated to save the memory of the pointer.
+When using a reference, no extra memory is involved.
+
+int i = 10;
+int &reference = i;
+
+
+
