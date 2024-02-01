@@ -3,8 +3,6 @@
 
 #include<iostream>
 
-using namespace seneca;
-
 namespace seneca {
 	
 	struct Guest {
@@ -30,6 +28,8 @@ namespace seneca {
 
 	// vacates the guest by dallocating its memory.
 	void vacate(Guest& guest);
+
+	void clearLine();
 
 }
 

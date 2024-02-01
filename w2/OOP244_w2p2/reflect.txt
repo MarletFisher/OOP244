@@ -1,0 +1,10 @@
+--- Findings In this Workshop ---
+
+Name: 		Frank Cheng
+Student Number:	051702033
+Date: Jan 31, 2024
+
+Reflection
+---------------------------------
+
+The most important findings in this workshop were allocating dynamic array sizes within a struct (or object) to hold data values of unpredictable size, and visualizing the memory they take up. The ability to make dynamic array sizes opens up a new realm of possibilities within C++, not having to prewrite a maximum size for arrays. This is odd to me though, as the language doesn't look like it supports dynamic sizes at first if you express it through hardcoding the size value of an array (char array[dynamicSize]), though perhaps that has some conflict through being global variables. Visualizing the size and memory of the array is also important, though I am not sure of the practicality of the uses of having control over deallocating memory. The coding languages I have learnt before this would either automatically do this when exiting the locale or instance of the object. I imagine it is useful in longer functions when it is preferred to deallocate the memory before exiting the rest of the locale or body. The dynamic allocating of memory through overloading functions is also an interesting use of the subject.
