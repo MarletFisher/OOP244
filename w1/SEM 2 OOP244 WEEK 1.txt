@@ -1,0 +1,8 @@
+SEM 2 OOP244 WEEK 1
+
+ABSTRACTION
+
+In c++ this concept refers to the same concept as Javascript's private public properties.
+
+310.5
+

@@ -1,0 +1,11 @@
+//*****************************************************************************
+//  <assessment name example : Workshop - #1 (Part - 2)>
+//  Full Name   : Frank Cheng
+//  Student ID# : 051702033
+//	Email       : xcheng6@myseneca.ca
+//	Section     : OOP244 NHH
+//	Date        : Jan 19, 2024
+//	Authenticity Declaration :
+//  I have done all the coding by myself and only copied the code 
+//  that my professor provided to complete my workshops and assignments.
+//*****************************************************************************
