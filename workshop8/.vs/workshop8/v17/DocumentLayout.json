@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1E20FF-2238-49E4-8B97-7B0E0E42E608}|workshop8.vcxproj|C:\\code\\seneca\\OOP244\\w11\\workshop8\\SavingsAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F1E20FF-2238-49E4-8B97-7B0E0E42E608}|workshop8.vcxproj|solutionrelative:SavingsAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1E20FF-2238-49E4-8B97-7B0E0E42E608}|workshop8.vcxproj|C:\\code\\seneca\\OOP244\\w11\\workshop8\\ChequingAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F1E20FF-2238-49E4-8B97-7B0E0E42E608}|workshop8.vcxproj|solutionrelative:ChequingAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1E20FF-2238-49E4-8B97-7B0E0E42E608}|workshop8.vcxproj|C:\\code\\seneca\\OOP244\\w11\\workshop8\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F1E20FF-2238-49E4-8B97-7B0E0E42E608}|workshop8.vcxproj|solutionrelative:Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1E20FF-2238-49E4-8B97-7B0E0E42E608}|workshop8.vcxproj|C:\\code\\seneca\\OOP244\\w11\\workshop8\\ChequingAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F1E20FF-2238-49E4-8B97-7B0E0E42E608}|workshop8.vcxproj|solutionrelative:ChequingAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1E20FF-2238-49E4-8B97-7B0E0E42E608}|workshop8.vcxproj|C:\\code\\seneca\\OOP244\\w11\\workshop8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F1E20FF-2238-49E4-8B97-7B0E0E42E608}|workshop8.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1E20FF-2238-49E4-8B97-7B0E0E42E608}|workshop8.vcxproj|C:\\code\\seneca\\OOP244\\w11\\workshop8\\Allocator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F1E20FF-2238-49E4-8B97-7B0E0E42E608}|workshop8.vcxproj|solutionrelative:Allocator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1E20FF-2238-49E4-8B97-7B0E0E42E608}|workshop8.vcxproj|C:\\code\\seneca\\OOP244\\w11\\workshop8\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F1E20FF-2238-49E4-8B97-7B0E0E42E608}|workshop8.vcxproj|solutionrelative:Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1E20FF-2238-49E4-8B97-7B0E0E42E608}|workshop8.vcxproj|C:\\code\\seneca\\OOP244\\w11\\workshop8\\SavingsAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F1E20FF-2238-49E4-8B97-7B0E0E42E608}|workshop8.vcxproj|solutionrelative:SavingsAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1E20FF-2238-49E4-8B97-7B0E0E42E608}|workshop8.vcxproj|C:\\code\\seneca\\OOP244\\w11\\workshop8\\iAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F1E20FF-2238-49E4-8B97-7B0E0E42E608}|workshop8.vcxproj|solutionrelative:iAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Allocator.cpp",
+              "DocumentMoniker": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\Allocator.cpp",
+              "RelativeDocumentMoniker": "Allocator.cpp",
+              "ToolTip": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\Allocator.cpp",
+              "RelativeToolTip": "Allocator.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T14:12:12.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAACAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T14:10:53.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "iAccount.h",
+              "DocumentMoniker": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\iAccount.h",
+              "RelativeDocumentMoniker": "iAccount.h",
+              "ToolTip": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\iAccount.h",
+              "RelativeToolTip": "iAccount.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T14:07:01.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.h",
+              "DocumentMoniker": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\Account.h",
+              "RelativeDocumentMoniker": "Account.h",
+              "ToolTip": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\Account.h",
+              "RelativeToolTip": "Account.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T13:41:37.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cpp",
+              "DocumentMoniker": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\Account.cpp",
+              "RelativeDocumentMoniker": "Account.cpp",
+              "ToolTip": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\Account.cpp",
+              "RelativeToolTip": "Account.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T11:51:34.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChequingAccount.h",
+              "DocumentMoniker": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\ChequingAccount.h",
+              "RelativeDocumentMoniker": "ChequingAccount.h",
+              "ToolTip": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\ChequingAccount.h",
+              "RelativeToolTip": "ChequingAccount.h",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T11:15:53.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChequingAccount.cpp",
+              "DocumentMoniker": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\ChequingAccount.cpp",
+              "RelativeDocumentMoniker": "ChequingAccount.cpp",
+              "ToolTip": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\ChequingAccount.cpp",
+              "RelativeToolTip": "ChequingAccount.cpp",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T14:59:57.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SavingsAccount.h",
+              "DocumentMoniker": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\SavingsAccount.h",
+              "RelativeDocumentMoniker": "SavingsAccount.h",
+              "ToolTip": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\SavingsAccount.h",
+              "RelativeToolTip": "SavingsAccount.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-03T11:42:16.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SavingsAccount.cpp",
+              "DocumentMoniker": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\SavingsAccount.cpp",
+              "RelativeDocumentMoniker": "SavingsAccount.cpp",
+              "ToolTip": "C:\\code\\seneca\\OOP244\\w11\\workshop8\\SavingsAccount.cpp",
+              "RelativeToolTip": "SavingsAccount.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T02:29:51.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
